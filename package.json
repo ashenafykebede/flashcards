@@ -1,14 +1,16 @@
 {
   "name": "flashcards",
   "version": "1.0.0",
-  "description": "",
+  "description": "home repo for Lab Antwerp class 1",
   "scripts": {
     "format": "prettier --write ./",
+    "spell-check": "cspell './**'",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ "
   },
   "author": "HYF Belgium",
   "license": "MIT",
   "devDependencies": {
+    "cspell": "^5.9.0",
     "markdownlint-cli": "^0.28.1",
     "prettier": "^2.3.2"
   }

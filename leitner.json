@@ -1,8 +1,10 @@
 {
   "boxes": {
     "1": [
-      "./git/saving/add-and-commit-everything.md",
-      "./bash/changing-directories/up-one.md"
+      "./bash/up-one-directory.md",
+      "./git/checkout-local-branch.md",
+      "./git/create-new-local-branch.md",
+      "./git/initialize-local-repository.md"
     ],
     "2": [],
     "3": [],

@@ -1,7 +1,7 @@
 How do you navigate up one directory?
 
 <details>
-<summary>check the answer</summary>
+<summary>answer</summary>
 
 ```bash
 cd ..
